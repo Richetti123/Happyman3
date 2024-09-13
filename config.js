@@ -14,20 +14,20 @@ global.authFile = `MichiBot`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['56928561853', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56941827124', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', false],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
-  ['56928561853', 'MichiBot', true], 
-  ['56928561853', 'MichiBot', true],
+  ['56928561853', 'HappyMan', true],
+  ['56941827124', 'HappyMan', true],
+  ['56941827124', 'HappyMan', true],
+  ['56941827124', 'HappyMan', true],
+  ['56941827124', 'HappyMan', true],
+  ['56928561853', 'HappyMan', true],
+  ['56928561853', 'HappyMan', false],
+  ['56928561853', 'HappyMan', true],
+  ['56928561853', 'HappyMan', true],
+  ['56928561853', 'HappyMan', true],
+  ['56928561853', 'HappyMan', true], 
+  ['56928561853', 'HappyMan', true],
+  ['56928561853', 'HappyMan', true], 
+  ['56928561853', 'HappyMan', true],
   ['56941827124'],
   ['56941827124'],
   ['56941827124'],
@@ -58,14 +58,14 @@ global.prems = ['56928561853'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'MichiBot';
-global.author = 'MichiBot';
-global.wm = 'MichiBot';
+global.packname = 'HappyMan';
+global.author = 'HappyMan';
+global.wm = 'HappyMan';
 global.idioma = 'es';
-global.ig = '@ceogeripium.dzn';
-global.titulowm = 'MichiBot';
-global.titulowm2 = `MichiBot`
-global.igfg = 'MichiBot';
+global.ig = '@natham.lara';
+global.titulowm = 'HappyMan';
+global.titulowm2 = `HappyMan`
+global.igfg = 'HappyMan';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -85,12 +85,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nMichiBot`;
-global.gt = 'MichiBot';
-global.mysticbot = 'MichiBot';
-global.channel = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M';
-global.md = 'https://www.instagram.com/ceogeripium.dzn';
-global.mysticbot = 'https://www.instagram.com/ceogeripium.dzn';
+global.wm2 = `${dia} ${fecha}\nHappyMan`;
+global.gt = 'HappyMan';
+global.mysticbot = 'HappyMan';
+global.channel = 'https://www.instagram.com/natham.lara';
+global.md = 'https://www.instagram.com/natham.lara';
+global.mysticbot = 'https://www.instagram.com/natham.lara';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
