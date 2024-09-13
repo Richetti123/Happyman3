@@ -15,7 +15,7 @@ global.isBaileysFail = false
 
 global.owner = [
   ['56928561853', 'HappyMan', true],
-  ['56941827124', 'HappyMan', true],
+  ['18093040329', 'HappyMan', true],
   ['56941827124', 'HappyMan', true],
   ['56941827124', 'HappyMan', true],
   ['56941827124', 'HappyMan', true],
